@@ -1,0 +1,67 @@
+python : 
+python is scripting programming language
+pyton is dynamically typed:
+python is interpreted language
+
+
+where to use python:
+web development
+data science
+machine learning
+artificial intelligence
+
+
+python history:
+python was created by Guido van Rossum
+python was first released in 1991
+python is named after the British comedy group Monty Python
+python current version is 3.x
+
+.py --file
+4
+operators:
+unery operators: it operates on single operand
+    increment operator: it increases the value of operand by 1
+    decrement operator: it decreases the value of operand by 1
+
+binery operators: it operates on two operands
+    arithmetic operators: +, -, *, /, %, **, //
+    comparison operators: ==, !=, >, <, >=, <=
+    logical operators: and, or, not
+    bitwise operators: &, |, ^, ~, <<, >>
+    assignment operators: =, +=, -=, *=, /=, %=, **=, //=
+    identity operators: is, is not
+    membership operators: in, not in
+
+decision making:
+if else 
+match case
+loops:
+
+
+
+string:
+check how many spaces are there in string
+count words in string
+check vovels in string and howmnay
+
+
+convert string to title case:
+hi this is india
+Hi This Is India
+
+array:
+list
+tuple
+dict
+set
+
+array is group of similar data types
+list:
+1) ordered collection of items
+2) mutable (can be changed)
+3) allows duplicate items
+4) defined using square brackets []
+5) can contain mixed data types
+6) supports indexing and slicing
+7) can be nested (lists within lists)

@@ -1,0 +1,11 @@
+ord
+chr 
+len
+index
+find
+upper
+lower
+title
+capitalize
+count
+swapcase
