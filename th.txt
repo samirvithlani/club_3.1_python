@@ -65,3 +65,13 @@ list:
 5) can contain mixed data types
 6) supports indexing and slicing
 7) can be nested (lists within lists)
+
+
+
+enter your name or exit:
+exit : loop break
+ram -- add
+shyam -- add
+
+exit
+list print...
