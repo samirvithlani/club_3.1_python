@@ -35,3 +35,9 @@ users = ["naan","naman","bob","parth","jay","madam"]
 
 palindromeLabels = ["palindrome" if i == i[::-1] else "not palindrome" for i in users]
 print(palindromeLabels)
+
+
+numbers = [1,-100,0,-22,11,22,-90,100]
+
+x = ["pos" if i>0 else ("zero" if i ==0 else "neg") for i in numbers]
+print(x)
