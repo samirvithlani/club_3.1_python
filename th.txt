@@ -75,3 +75,12 @@ shyam -- add
 
 exit
 list print...
+
+
+dict:
+
+dict stores data in kv pair
+all key must be unique
+duplicate value can be allowed
+dict allowes hetrogenius key and value both
+dict is dynami
