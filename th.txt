@@ -84,3 +84,8 @@ all key must be unique
 duplicate value can be allowed
 dict allowes hetrogenius key and value both
 dict is dynami
+
+
+want to add more if yes press 1 or else 0
+get name and age:
+{}
