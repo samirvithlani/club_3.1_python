@@ -89,3 +89,12 @@ dict is dynami
 want to add more if yes press 1 or else 0
 get name and age:
 {}
+
+
+set:
+set is dynamic
+set is unique element collection
+set is not supscriptable
+set is only iterable
+set {}
+
