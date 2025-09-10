@@ -21,4 +21,9 @@ print(data)
 
 for i in data:
     print(i)
+    
+
+x= 'india'    
+x1 = "".join(set(x))
+print(x1)
 
