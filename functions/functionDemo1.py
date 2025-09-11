@@ -38,3 +38,18 @@ print(f"ans = {add(100,200)}")
 #pass 2 list as param and concat each elem index vise and return new list
 #[1,2,3],[2,3,4]
 #[3,5,7]
+
+# def addtolist(a,b):
+#     add =0
+#     x = []
+#     for i,j in zip(a,b):
+#         add = i+j
+#         x.append(add)
+#     return x
+
+def addtolist(a,b):
+    return [i+j for i,j in zip(a,b)]
+
+
+print(addtolist([10,20],[20,30]))    
+        
