@@ -46,3 +46,8 @@ goa = {"niya","siya","jaya","amit","priya"}
 #find who have attended ahm and goa not mumbai
 #fina who have attended only goa
 #find who have attended mumai and ahm
+
+# {"n","s",j}
+
+x =  goa - (mumbai.union(ahm))
+print(x)
