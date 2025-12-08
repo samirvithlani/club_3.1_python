@@ -98,3 +98,26 @@ set is not supscriptable
 set is only iterable
 set {}
 
+
+file:
+score.txt
+data= {"virat":[100,20,123],"rohit":[45,20,123]}
+
+Match score
+virat
+Match 1:100
+Match 2:100
+Match 3:100
+Rohit
+Match 1:45
+
+enumarte
+
+oops:
+
+
+inheritance
+encpsulation:
+ class object const..
+poly
+abstraction
