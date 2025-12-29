@@ -121,3 +121,25 @@ encpsulation:
  class object const..
 poly
 abstraction
+
+
+constructor:
+__init__(self)
+
+create class user 
+
+create method adduser, list user
+add user store data in file
+read user get data from file
+define initial value in constructor
+
+
+child class can use prop of parent class this propcess called inheritance...
+derived base..
+
+type of inheritance
+single
+multilevel
+multipule
+hybride
+hyricical
